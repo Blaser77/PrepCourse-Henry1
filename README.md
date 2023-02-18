@@ -1,2 +1,4 @@
-# PrepCourse-Henry1
-repositorio de prueba modulo 2 henry
+PrepCourse Henry1
+
+por bladimir saldaña campo
+esta es una prueba de como clonar un repositorio y pasarlo desde git hub a mi computadora local
